@@ -23,4 +23,4 @@
 
 ## Reference
 
-프로젝트의 라이선스를 명시하세요. 다른 사람들이 프로젝트를 사용할 때 어떤 제약 사항이 있는지 알려줍니다.
+[부스트캠프 AI Tech - Product Serving 자료](https://github.com/zzsza/Boostcamp-AI-Tech-Product-Serving)
